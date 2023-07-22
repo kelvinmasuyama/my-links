@@ -42,6 +42,11 @@ a {
 
 }
 
+a:hover {
+    background-color: white;
+    color: limegreen;
+}
+
 footer{
     color: white;
 }
