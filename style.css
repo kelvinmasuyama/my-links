@@ -15,16 +15,17 @@ img {
 
 h1 {
     color: white;
-    margin-top: 31px;
+    margin-top: 15px;
     margin-bottom: 8px;
 }
 
 p {
     color: white;
+    line-height: 1.5;
 }
 
 ul {
-    margin-top: 35px;   
+    margin-top: 15px;   
 }
 
 li {
