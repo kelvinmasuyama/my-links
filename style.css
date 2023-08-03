@@ -2,16 +2,11 @@
     margin: 0;
     padding: 0;
 }
-
 body {
-    background-color: plum;
+    background-color: rgb(92, 44, 44);
     font-family: sans-serif;
+}
 
-}
-#cat {
-    width: 80px;
-    height: 80px;
-}
 img {
     border-radius: 20px;
     width: 320px;
@@ -19,18 +14,23 @@ img {
 }
 
 h1 {
-    color: black;
-    margin-top: 31px;
+    color: papayawhip;
+    margin-top: 15px;
     margin-bottom: 8px;
 }
 
 p {
-    color: black;
+    color: white;
+    line-height: 1.5;
+}
+
+#astronauta {
+    width: 150px;
+    height: 150px;
 }
 
 ul {
-    margin-top: 35px;
-
+    margin-top: 1px;   
 }
 
 li {
@@ -45,21 +45,26 @@ a {
     text-decoration: none;
     display: block;
     border-radius: 5px;
+    border: 1px solid black;
+
 }
 
 a:hover {
-    background-color: palegreen;
-    color: brown;
+    background-color: white;
+    color: rgb(92, 44, 44);
 }
 
-footer {
-    color: black;
+footer{
+    color: white;
 }
+
 .container {
+    background-color: rgb(92, 44, 44);
     width: 320px;
     text-align: center;
-    margin-top: 41px;
+    margin-bottom: 60px;
+    margin-top: 60px;
     margin-left: auto;
     margin-right: auto;
-
+    
 }
